@@ -1,0 +1,23 @@
+{
+  "name": "deposittoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XCBA/DepositToken.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XCBA/DepositToken/issues"
+  },
+  "homepage": "https://github.com/XCBA/DepositToken#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.9"
+  }
+}
